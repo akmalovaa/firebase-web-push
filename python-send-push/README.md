@@ -1,8 +1,10 @@
 # Python send push to web
 
+Скрипт для проверки пушей
+
 Пример запроса:
 
-```json
+```
 https://fcm.googleapis.com//v1/projects/<YOUR-PROJECT-ID>/messages:send
 Content-Type: application/json
 Authorization: bearer <YOUR-ACCESS-TOKEN>

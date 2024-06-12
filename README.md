@@ -1,5 +1,7 @@
 # Firebase web push
 
+![receive web push example](./img/web_push_example.png)
+
 Минимальный React TypeScript фронт c настройками для получения пуш уведомлений
 
 Основные полезные ссылки:
